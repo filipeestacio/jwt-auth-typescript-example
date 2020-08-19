@@ -1,4 +1,1 @@
-node_modules
-server/.env
-.gitignore
-/dist
+/server/.env
